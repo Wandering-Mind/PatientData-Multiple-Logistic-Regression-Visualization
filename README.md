@@ -1,0 +1,2 @@
+# PatientData-Multiple-Logistic-Regression-Visualization
+3 Python programs using data from ny.gov patient data with the goal of supporting decision making.  The first program is to fit a multiple regression model using values from the dataset.  The second program is to fit a logistic regression model using values from the taxi_trips dataset.  The third program is to create at least one data visualization
