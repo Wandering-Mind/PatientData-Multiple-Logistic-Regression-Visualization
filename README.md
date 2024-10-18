@@ -1,5 +1,5 @@
 # PatientData-Multiple-Logistic-Regression-Visualization
-3 Python programs using data from ny.gov patient data (https://data.ny.gov/resource/w8eu-45mn.json)/(https://data.ny.gov/resource/w8eu-45mn.json?$select=sexual_orientation,program_category,mental_illness) with the goal of supporting decision making and insight support.  The first program is to fit a multiple regression model using values from the dataset.  The second program is to fit a logistic regression model using values from the taxi_trips dataset.  The third program is to create at least one data visualization
+3 Python programs using data from ny.gov patient data (https://data.ny.gov/resource/w8eu-45mn.json) & .son with filters --> (https://data.ny.gov/resource/w8eu-45mn.json?$select=sexual_orientation,program_category,mental_illness) with the goal of supporting decision making and insight support.  The first program is to fit a multiple regression model using values from the dataset.  The second program is to fit a logistic regression model using values from the taxi_trips dataset.  The third program is to create at least one data visualization
 
 Multiple Regression
 
