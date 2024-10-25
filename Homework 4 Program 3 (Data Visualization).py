@@ -1,5 +1,4 @@
 # Homework 4 Assignment
-# Rose Dunderdale
 # Date modified 10.24.24
 
 
